@@ -1,0 +1,2 @@
+# CheckOutKata
+CheckOut Kata exercise
