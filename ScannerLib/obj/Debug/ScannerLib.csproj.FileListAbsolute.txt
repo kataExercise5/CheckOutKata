@@ -1,0 +1,4 @@
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLib\bin\Debug\ScannerLib.dll
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLib\bin\Debug\ScannerLib.pdb
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLib\obj\Debug\ScannerLib.dll
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLib\obj\Debug\ScannerLib.pdb

@@ -1,0 +1,8 @@
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLibTests\bin\Debug\ScannerLibTests.dll
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLibTests\bin\Debug\ScannerLibTests.pdb
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLibTests\bin\Debug\ScannerLib.dll
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLibTests\bin\Debug\ScannerLib.pdb
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLibTests\obj\Debug\ScannerLibTests.csprojResolveAssemblyReference.cache
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLibTests\obj\Debug\ScannerLibTests.dll
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\ScannerLibTests\obj\Debug\ScannerLibTests.pdb

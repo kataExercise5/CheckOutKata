@@ -1,0 +1,1 @@
+c:\Users\Bill\documents\visual studio 2015\Projects\CheckOut\CheckOutScanner\obj\Debug\CheckOutScanner.csprojResolveAssemblyReference.cache

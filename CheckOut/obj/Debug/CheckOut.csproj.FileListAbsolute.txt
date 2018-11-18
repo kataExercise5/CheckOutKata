@@ -1,0 +1,11 @@
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\bin\Debug\CheckOut.exe.config
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\bin\Debug\CheckOut.exe
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\bin\Debug\CheckOut.pdb
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\bin\Debug\ScannerLib.dll
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\bin\Debug\ScannerLib.pdb
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\obj\Debug\CheckOut.csprojResolveAssemblyReference.cache
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\obj\Debug\CheckOut.Form1.resources
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\obj\Debug\CheckOut.Properties.Resources.resources
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\obj\Debug\CheckOut.csproj.GenerateResource.Cache
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\obj\Debug\CheckOut.exe
+c:\users\bill\documents\visual studio 2015\Projects\CheckOut\CheckOut\obj\Debug\CheckOut.pdb
