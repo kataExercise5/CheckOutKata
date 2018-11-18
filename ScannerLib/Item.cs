@@ -22,12 +22,12 @@ namespace ScannerLib
 
         public decimal calcPrice(int qty, DateTime purchaseDate)
         {
-            return 3.0m;
+            return qty * itemPrice;
         }
 
         public decimal calcPrice(decimal pounds, DateTime purchaseDate)
         {
-            return 4.0m;
+            return pounds * itemPrice;
         }
     }
 }
